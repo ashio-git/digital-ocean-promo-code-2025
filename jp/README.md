@@ -1,4 +1,4 @@
-# 🚀 DigitalOcean プロモーションコード 2025: 今すぐ 200ドルの無料クレジットを獲得
+# 🚀 DigitalOcean プロモーションコード 2026: 今すぐ 200ドルの無料クレジットを獲得
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 ### **[👉 200ドル分のクレジットを有効化するにはここをクリック 👈](https://www.digitalocean.com/?refcode=1cc5d342b842&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)**
 
-*新規ユーザー限定 • 2025年1月確認済み • 即時有効化*
+*新規ユーザー限定 • 2026年1月確認済み • 即時有効化*
 
 ---
 [🔙 Back to English](../README.md)
@@ -14,7 +14,7 @@
 
 ## 🔥 なぜこの DigitalOcean クーポンを使うべきですか？
 
-**2025年の最高の DigitalOcean プロモーションコード**をお探しですか？ここにあります。この専用紹介リンクを使用すると、DigitalOcean のプレミアムクラウドプラットフォームで60日間使用できる **200ドルの無料クレジット** が付与されます。
+**2026年の最高の DigitalOcean プロモーションコード**をお探しですか？ここにあります。この専用紹介リンクを使用すると、DigitalOcean のプレミアムクラウドプラットフォームで60日間使用できる **200ドルの無料クレジット** が付与されます。
 
 開発者、スタートアップ、学生のいずれであっても、このクレジットを使用して以下のことができます：
 - **Droplet のデプロイ**: 仮想マシン (VPS) を数秒で起動します。
@@ -63,5 +63,6 @@ A: いいえ、このオファーは厳密に **新規アカウントのみ** �
 
 ---
 <div align="center">
-<small>2025 DigitalOcean キャンペーンコード | おすすめクラウドホスティング | 無料 VPS</small>
+<small>2026 DigitalOcean キャンペーンコード | おすすめクラウドホスティング | 無料 VPS</small>
 </div>
+<a href="https://visitorbadge.io/status?path=digital-ocean-promo-code-2026-japanese"><img src="https://api.visitorbadge.io/api/visitors?path=digital-ocean-promo-code-2026-japanese&label=VIEWS&countColor=%23263759" /></a>
