@@ -50,6 +50,26 @@
 *   **أداء عالي**: تخزين SSD كامل وسرعات شبكة فائقة.
 *   **مراكز بيانات عالمية**: استضف بياناتك في نيويورك، سان فرانسيسكو، لندن، أمستردام، سنغافورة، والمزيد.
 
+---
+
+## 🤖 OpenClaw: مساعد الذكاء الاصطناعي
+
+- 📖 [تثبيت OpenClaw على DigitalOcean](https://gist.github.com/ashio-git/1be1eaaf3dc9ea3a0d20df6e6406ae65)
+- 📱 [إعداد Telegram & WhatsApp](https://gist.github.com/ashio-git/b8236b92bdc9591ad29bb7dfdf20c025)
+- 🛡️ [أمان OpenClaw](https://gist.github.com/ashio-git/3cd50f7de18b77ea506d5e6eb9e97c33)
+
+---
+
+## 💻 ModelArk: نماذج ذكاء اصطناعي رخيصة
+
+### 💰 [خصم 10% — الشهر الأول $4.50](https://www.byteplus.com/activity/codingplan?ac=MMAUCIS9NT1S&rc=BLS887N6)
+
+- 📖 [ModelArk + OpenClaw تكامل](https://gist.github.com/ashio-git/fa83efc6c46310fb431aca6e32d125f1)
+- 🔧 [تكوين Aider مع ModelArk](https://gist.github.com/ashio-git/fec6b87b5cad387eed4ca66f0d7f1d6c)
+- 📊 [مقارنة النماذج](https://gist.github.com/ashio-git/c98262ca67a507db201be9420b4814b2)
+
+---
+
 ## ❓ الأسئلة الشائعة (FAQ)
 
 **س: هل كوبون DigitalOcean هذا حقيقي؟**

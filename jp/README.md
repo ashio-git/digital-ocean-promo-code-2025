@@ -50,6 +50,26 @@
 *   **高性能**: SSD ベースのストレージと超高速ネットワーク速度。
 *   **グローバルデータセンター**: NYC、SF、ロンドン、アムステルダム、シンガポール、など、世界中でデータをホストできます。
 
+---
+
+## 🤖 OpenClaw: AI アシスタント
+
+- 📖 [DigitalOcean に OpenClaw をインストール](https://gist.github.com/ashio-git/9da089acacb1dedd696ec8e017794543)
+- 📱 [Telegram & WhatsApp セットアップ](https://gist.github.com/ashio-git/b8236b92bdc9591ad29bb7dfdf20c025)
+- 🛡️ [OpenClaw セキュリティ](https://gist.github.com/ashio-git/3cd50f7de18b77ea506d5e6eb9e97c33)
+
+---
+
+## 💻 ModelArk: 格安 AIモデル
+
+### 💰 [10% OFF — 初月 $4.50](https://www.byteplus.com/activity/codingplan?ac=MMAUCIS9NT1S&rc=BLS887N6)
+
+- 📖 [ModelArk + OpenClaw 統合](https://gist.github.com/ashio-git/55ab331fd9e682606a20b69cc1ebc29d)
+- 🔧 [Aider と ModelArk を設定](https://gist.github.com/ashio-git/fec6b87b5cad387eed4ca66f0d7f1d6c)
+- 📊 [モデル比較](https://gist.github.com/ashio-git/c98262ca67a507db201be9420b4814b2)
+
+---
+
 ## ❓ よくある質問 (FAQ)
 
 **Q: この DigitalOcean クーポンは本物ですか？**

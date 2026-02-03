@@ -50,6 +50,26 @@
 *   **高性能**: 全 SSD 存储和闪电般的网络速度。
 *   **全球数据中心**: 在纽约、旧金山、伦敦、阿姆斯特丹、新加坡、班加罗尔等地拥有数据中心。
 
+---
+
+## 🤖 OpenClaw: AI 编程助手
+
+- 📖 [在 DigitalOcean 安装 OpenClaw](https://gist.github.com/ashio-git/9816d08c4dcdd4b89ac61e8ca7688d7d)
+- 📱 [Telegram & WhatsApp 设置](https://gist.github.com/ashio-git/b8236b92bdc9591ad29bb7dfdf20c025)
+- 🛡️ [OpenClaw 安全设置](https://gist.github.com/ashio-git/3cd50f7de18b77ea506d5e6eb9e97c33)
+
+---
+
+## 💻 ModelArk: 廉价 AI 编程
+
+### 💰 [10% 折扣 — 首月 $4.50 USD](https://www.byteplus.com/activity/codingplan?ac=MMAUCIS9NT1S&rc=BLS887N6)
+
+- 📖 [ModelArk + OpenClaw 集成](https://gist.github.com/ashio-git/b22927a7b63c373d2c1d4d3e5962b665)
+- 🔧 [配置 Aider 与 ModelArk](https://gist.github.com/ashio-git/fec6b87b5cad387eed4ca66f0d7f1d6c)
+- 📊 [模型比较](https://gist.github.com/ashio-git/c98262ca67a507db201be9420b4814b2)
+
+---
+
 ## ❓ 常见问题解答 (FAQ)
 
 **问：这个 DigitalOcean 优惠券是真的吗？**

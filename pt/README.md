@@ -50,6 +50,26 @@ Seja você um desenvolvedor, startup ou estudante, este crédito permite:
 *   **Alta Performance**: Armazenamento SSD e rede ultra-rápida.
 *   **Data Centers Globais**: Hospede seus dados em NY, São Francisco, Londres, Amsterdã, Singapura, etc.
 
+---
+
+## 🤖 OpenClaw: Assistente de IA no DigitalOcean
+
+- 📖 [Instalar OpenClaw no DigitalOcean](https://gist.github.com/ashio-git/7572a5fe57fd722d2180db96cad8db35)
+- 📱 [Configuração Telegram & WhatsApp](https://gist.github.com/ashio-git/b8236b92bdc9591ad29bb7dfdf20c025)
+- 🛡️ [Segurança do OpenClaw](https://gist.github.com/ashio-git/3cd50f7de18b77ea506d5e6eb9e97c33)
+
+---
+
+## 💻 ModelArk: IA Barata para Programação
+
+### 💰 [10% OFF — Primeiro Mês $4.50 USD](https://www.byteplus.com/activity/codingplan?ac=MMAUCIS9NT1S&rc=BLS887N6)
+
+- 📖 [IA Barata com OpenClaw + ModelArk](https://gist.github.com/ashio-git/5337c03dfa2e6bc0b48c9941576a8b7b)
+- 🔧 [Configurar Aider com ModelArk](https://gist.github.com/ashio-git/fec6b87b5cad387eed4ca66f0d7f1d6c)
+- 📊 [Comparação de Modelos](https://gist.github.com/ashio-git/c98262ca67a507db201be9420b4814b2)
+
+---
+
 ## ❓ Perguntas Frequentes (FAQ)
 
 **P: Este cupom da DigitalOcean é legítimo?**

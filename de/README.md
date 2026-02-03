@@ -50,6 +50,26 @@ Egal, ob Sie Entwickler, Startup oder Student sind, mit diesem Guthaben können 
 *   **Hohe Leistung**: SSD-basierter Speicher und blitzschnelle Netzwerkgeschwindigkeiten.
 *   **Globale Rechenzentren**: Hosten Sie Ihre Daten in NYC, SF, London, Amsterdam, Singapur, Frankfurt und mehr.
 
+---
+
+## 🤖 OpenClaw: KI-Assistent
+
+- 📖 [OpenClaw auf DigitalOcean installieren](https://gist.github.com/ashio-git/991f75e863d91b82c19c13da48b74719)
+- 📱 [Telegram & WhatsApp Einrichtung](https://gist.github.com/ashio-git/b8236b92bdc9591ad29bb7dfdf20c025)
+- 🛡️ [OpenClaw Sicherheit](https://gist.github.com/ashio-git/3cd50f7de18b77ea506d5e6eb9e97c33)
+
+---
+
+## 💻 ModelArk: Günstige KI-Modelle
+
+### 💰 [10% Rabatt — Erster Monat $4.50](https://www.byteplus.com/activity/codingplan?ac=MMAUCIS9NT1S&rc=BLS887N6)
+
+- 📖 [ModelArk + OpenClaw Integration](https://gist.github.com/ashio-git/eb915982aa99bc358ea4ed4e9c06ff56)
+- 🔧 [Aider mit ModelArk konfigurieren](https://gist.github.com/ashio-git/fec6b87b5cad387eed4ca66f0d7f1d6c)
+- 📊 [Modell-Vergleich](https://gist.github.com/ashio-git/c98262ca67a507db201be9420b4814b2)
+
+---
+
 ## ❓ Häufig gestellte Fragen (FAQ)
 
 **F: Ist dieser DigitalOcean-Gutschein echt?**
