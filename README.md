@@ -74,6 +74,23 @@ Looking to run your own **self-hosted AI assistant**? OpenClaw (1-Click Deploy) 
 
 ---
 
+## 💻 NEW: ModelArk Coding Plan — Cheap AI for Developers
+
+Looking for **affordable AI coding models**? **ModelArk Coding Plan** gives you access to GLM-4.7, DeepSeek-V3.2, Kimi-K2, and Seed-Code — at a fraction of OpenAI/Anthropic prices!
+
+### 💰 [Get 10% OFF — First Month from $4.50 USD](https://www.byteplus.com/activity/codingplan?ac=MMAUCIS9NT1S&rc=BLS887N6)
+
+| Guide | Description |
+|-------|-------------|
+| 🚀 **[OpenClaw + ModelArk Integration](https://gist.github.com/ashio-git/ce36cb8b4c9e29ec319cb47022d552b9)** | Use cheap AI models with OpenClaw |
+| 📖 [What is ModelArk?](https://gist.github.com/ashio-git/8ade4b6918f1ac45cdfeeb666550bb57) | Platform overview and pricing |
+| 🔧 [Aider + ModelArk Setup](https://gist.github.com/ashio-git/fec6b87b5cad387eed4ca66f0d7f1d6c) | CLI coding setup guide |
+| 📊 [Models Comparison](https://gist.github.com/ashio-git/c98262ca67a507db201be9420b4814b2) | GLM-4.7 vs DeepSeek vs Kimi-K2 |
+
+**Other Languages:** [🇧🇷 PT](https://gist.github.com/ashio-git/5337c03dfa2e6bc0b48c9941576a8b7b) | [🇪🇸 ES](https://gist.github.com/ashio-git/9edc209311250672b59bf04605dee5cb) | [🇨🇳 CN](https://gist.github.com/ashio-git/b22927a7b63c373d2c1d4d3e5962b665) | [🇷🇺 RU](https://gist.github.com/ashio-git/512a206da80c1b3233a98c9346d17cdb) | [🇩🇪 DE](https://gist.github.com/ashio-git/eb915982aa99bc358ea4ed4e9c06ff56) | [🇯🇵 JP](https://gist.github.com/ashio-git/55ab331fd9e682606a20b69cc1ebc29d) | [🇫🇷 FR](https://gist.github.com/ashio-git/55593c10cde7e545805a9ad551696d60) | [🇸🇦 AR](https://gist.github.com/ashio-git/fa83efc6c46310fb431aca6e32d125f1)
+
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 **Q: Is this DigitalOcean coupon legit?**
