@@ -56,6 +56,24 @@ Whether you are a developer, a startup, or a student, this credit allows you to:
 *   **High Performance**: SSD-based storage and lightning-fast network speeds.
 *   **Global Data Centers**: Host your data in NYC, SF, London, Amsterdam, Singapore, Bangalore, and more.
 
+---
+
+## 🤖 Popular Tutorial: Install OpenClaw AI on DigitalOcean
+
+Looking to run your own **self-hosted AI assistant**? OpenClaw (1-Click Deploy) lets you chat with Claude/GPT via WhatsApp or Telegram — all on your own server!
+
+| Guide | Description |
+|-------|-------------|
+| 🚀 **[Install OpenClaw in 5 Minutes](https://gist.github.com/ashio-git/7ccd8de072fb289b170925549a81d8ab)** | Complete 1-Click Deploy tutorial |
+| 📖 [What is OpenClaw?](https://gist.github.com/ashio-git/fce660e4564e472f69a4035d4fda22db) | History, features, and how it works |
+| 🛡️ [Security Best Practices](https://gist.github.com/ashio-git/3cd50f7de18b77ea506d5e6eb9e97c33) | Keep your AI agent safe |
+| 📱 [Telegram/WhatsApp Setup](https://gist.github.com/ashio-git/b8236b92bdc9591ad29bb7dfdf20c025) | Connect messaging apps |
+| ⚡ [Skills Installation](https://gist.github.com/ashio-git/ab99c4b808b25adaad156fb53349d81b) | Calendar, Gmail, 1Password integrations |
+
+**Other Languages:** [🇧🇷 Português](https://gist.github.com/ashio-git/7572a5fe57fd722d2180db96cad8db35) | [🇪🇸 Español](https://gist.github.com/ashio-git/789d04f03a9bfc78dba2b8f7f285f3a4) | [🇨🇳 中文](https://gist.github.com/ashio-git/9816d08c4dcdd4b89ac61e8ca7688d7d) | [🇷🇺 Русский](https://gist.github.com/ashio-git/400f312702a2d98e9a45f8f0b5107b31) | [🇩🇪 Deutsch](https://gist.github.com/ashio-git/991f75e863d91b82c19c13da48b74719) | [🇯🇵 日本語](https://gist.github.com/ashio-git/9da089acacb1dedd696ec8e017794543) | [🇫🇷 Français](https://gist.github.com/ashio-git/cd1e5cebc255cd4d33367ae2e4a76400) | [🇸🇦 العربية](https://gist.github.com/ashio-git/1be1eaaf3dc9ea3a0d20df6e6406ae65)
+
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 **Q: Is this DigitalOcean coupon legit?**
